@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to vivasvan_cheatsheet's documentation!
+Welcome to Vivasvan's Cheat Sheet!
 ===============================================
 
 A small collection of usefuls tips and commands and other tutorials which i keep forgeting and keep surfing the internet and waste a lot a time re-solving.
