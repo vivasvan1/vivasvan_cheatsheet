@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'vivasvan_cheatsheet'
+project = 'Vivasvan\'s Cheat Sheet'
 copyright = '2022, Vivasvan'
 author = 'Vivasvan'
 
@@ -45,7 +45,14 @@ extensions = [
     'sphinx.ext.mathjax',
     'sphinx.ext.viewcode',
     'sphinx.ext.githubpages',
+    'sphinx_copybutton',
 ]
+
+# Copy button ignores the $ prompt in the docs
+copybutton_prompt_text = r"\$ |>>> |postgres=# "
+copybutton_prompt_is_regexp = True
+
+
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -64,7 +71,7 @@ master_doc = 'index'
 #
 # This is also used if you do content translation via gettext catalogs.
 # Usually you set "language" from the command line for these cases.
-language = None
+language = 'en'
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.

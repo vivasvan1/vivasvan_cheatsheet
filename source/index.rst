@@ -6,10 +6,13 @@
 Welcome to vivasvan_cheatsheet's documentation!
 ===============================================
 
+A small collection of usefuls tips and commands and other tutorials which i keep forgeting and keep surfing the internet and waste a lot a time re-solving.
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
+   
+   django/index
 
 
 Indices and tables
