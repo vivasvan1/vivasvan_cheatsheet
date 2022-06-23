@@ -1,14 +1,14 @@
-.. index:: ! dokku
+.. index:: ! dokku setup
 
-Dokku
-=============
+Dokku w/ Django
+================
 
 Helpful commands and tutorials for django dokku setup and other debugging tasks  
 
 Contents:
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 1
 
     dokku_postgres
 

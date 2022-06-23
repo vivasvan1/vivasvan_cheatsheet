@@ -1,10 +1,10 @@
-Postgres with Dokku
-===================
+Postgres Setup on Dokku
+===================================
 
 Credit: https://cheat.readthedocs.io/en/latest/django/dokku_postgres.html
 
 There's nothing Django-specific about this, but I'm including it just
-because we probably want to do it on every single Django deploy.
+because we probably want to do it on every single Dokku Django deploy.
 
 To install the `postgresql plugin <https://github.com/dokku/dokku-postgres>`_,
 inside your server run (because plugins must be installed as root):

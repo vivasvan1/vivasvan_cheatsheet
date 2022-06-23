@@ -1,4 +1,4 @@
-.. index:: ! local
+.. index:: ! local setup
 
 Local
 =============

@@ -12,7 +12,8 @@ A small collection of usefuls tips and commands and other tutorials which i keep
    :maxdepth: 2
    :caption: Contents:
    
-   django/index
+   content/django/index
+   content/dokku/index
 
 
 Indices and tables
