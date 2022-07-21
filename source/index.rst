@@ -14,6 +14,7 @@ A small collection of usefuls tips and commands and other tutorials which i keep
    
    content/django/index
    content/dokku/index
+   content/bash/index
 
 
 Indices and tables
