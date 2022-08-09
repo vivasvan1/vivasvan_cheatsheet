@@ -153,9 +153,9 @@ Step 5 - Connecting your source with dokku
 (Optional, Recommended) Step 6 - Using postgres on Dokku and Local
 ------------------------------------------------------------------------
 
-    `Dokku: Using Postgres as database </content/django/dokku_postgres.html>`_
+    `Dokku: Using Postgres as database </en/latest/content/django/dokku_postgres.html>`_
     
-    `Local: Using Postgres as database </content/django/local_postgres.html>`_
+    `Local: Using Postgres as database </en/latest/content/django/local_postgres.html>`_
 
 
 Step 6: Configuring Domain Name or IP address
