@@ -79,12 +79,14 @@ Towards the bottom of the file, you will see a DATABASES section, change it as f
         }
     }
 
+
 Migrate your db
+-----------------
 
 .. code-block:: bash
     
+    $ pip install psycopg2
     $ python3 manage.py makemigrations
     $ python3 manage.py migrate
-
 
 Done!
