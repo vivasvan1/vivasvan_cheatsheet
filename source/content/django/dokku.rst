@@ -10,5 +10,7 @@ Contents:
 .. toctree::
     :maxdepth: 1
 
+    dokku_django_with_aws
     dokku_postgres
+
 
