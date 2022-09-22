@@ -141,8 +141,21 @@ Create a runtime.txt in project's root folder to specify python version.
 Step 5 - Connecting your source with dokku
 ------------------------------------------------
 
-.. code-block:: bash
+(Recommended, Optional) Update .gitignore before pushing
+****************************************************************
+Make sure you have added venv and the database to .gitignore
 
+.. code-block:: 
+
+    venv
+
+    */__pycache__/
+    db.sqlite3
+
+Initialize git and push the code to your instance.
+
+.. code-block:: bash
+    
     $ git init
     $ git remote add dokku dokku@<your_instance_public_ip>:<dokku_app_name>
     $ git add .
