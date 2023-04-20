@@ -1,6 +1,6 @@
-.. index:: ! dokku
+.. index:: ! supabase
 
-Dokku
+Supabase
 =============
 
 These are just things I always find myself looking up, so I try to
@@ -9,10 +9,6 @@ make some notes of the most important parts that I can refer back to.
 Contents:
 
 .. toctree::
-    :maxdepth: 1
+    :maxdepth: 2
 
-    ../django/dokku
-    ../node/dokku
-    ssl
-    bugs
-
+    /content/bash/generate_types_supabase

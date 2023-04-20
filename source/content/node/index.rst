@@ -1,6 +1,6 @@
-.. index:: ! dokku
+.. index:: ! node
 
-Dokku
+Node
 =============
 
 These are just things I always find myself looking up, so I try to
@@ -9,10 +9,9 @@ make some notes of the most important parts that I can refer back to.
 Contents:
 
 .. toctree::
-    :maxdepth: 1
+    :maxdepth: 2
 
-    ../django/dokku
-    ../node/dokku
-    ssl
-    bugs
+    dokku
 
+
+supabase gen types typescript --project-id ubfuijplumtmcqcppxbg > lib/database.types.ts

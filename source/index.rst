@@ -12,9 +12,11 @@ A small collection of usefuls tips and commands and other tutorials which i keep
    :maxdepth: 2
    :caption: Contents:
    
+   content/bash/index
    content/django/index
    content/dokku/index
-   content/bash/index
+   content/node/index
+   content/supabase/index
 
 
 Indices and tables
