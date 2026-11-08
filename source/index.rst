@@ -13,6 +13,7 @@ A small collection of usefuls tips and commands and other tutorials which i keep
    :caption: Contents:
    
    content/bash/index
+   content/cloudflare/index
    content/django/index
    content/dokku/index
    content/node/index
